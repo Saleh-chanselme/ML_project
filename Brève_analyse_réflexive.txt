@@ -1,0 +1,27 @@
+
+
+🔹 Les difficultés rencontrées :
+
+J’ai rencontré certaines difficultés dans l’écriture de code Python, notamment avec les structures conditionnelles,
+ les boucles et la création de fonctions.
+J’ai également eu du mal à comprendre la création et la manipulation des modèles Machine-learning, 
+ainsi que leur fonctionnement en arrière-plan.
+
+⸻
+
+🔹 Les apprentissages tirés de ce projet :
+	1.	Les bases de la création de conditions avec if et else.
+
+	2.	Les bases des boucles avec for.
+
+	3.	Les bases de la création et l’utilisation de fonctions.
+
+	4.	Le traitement et l’analyse de données : 
+        détection des valeurs manquantes ou aberrantes, etc.
+        
+	5.	Les bases de la création d’un projet de machine learning, notamment :
+	•	la visualisation et l’exploration des données,
+	•	l’imputation des valeurs manquantes ou incohérentes,
+	•	la création de nouvelles caractéristiques (features) à partir des données,
+	•	les bases de la visualisation graphique,
+	•	ainsi que l’entraînement d’un modèle de machine learning tel que réalisé dans le projet actuel.
